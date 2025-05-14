@@ -1,0 +1,7 @@
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+yfinance>=0.2.0
+scipy>=1.7.0  # For statistical calculations
+# Note: tkinter is part of the standard Python library, but in some environments you might need to install it separately
+# On Linux: sudo apt-get install python3-tk
